@@ -1,0 +1,19 @@
+             INPP
+             AMEM       8    
+     L2:     NADA
+             CRVL       0,0
+             CRVL       0,1
+             CMMA
+             DSVF       L3
+             CRVL       0,0
+             CRCT       1    
+             CRCT       2    
+             MULT
+             SOMA
+             CRCT       3    
+             SUBT
+             ARMZ       0,0
+             DSVS       L2
+     L3:     NADA
+             PARA
+              FIM

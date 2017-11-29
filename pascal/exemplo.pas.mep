@@ -1,0 +1,39 @@
+INPP
+AMEM		8
+             CRVL       0,0
+             CRVL       0,1
+             CMMA
+             DSVF       L2
+             CRVL       0,1
+             CRVL       0,2
+             CMMA
+             DSVF       L3
+             CRVL       0,2
+             CRVL       0,3
+             CMMA
+             DSVF       L4
+             CRVL       0,4
+             CRVL       0,5
+             CMMA
+             DSVF       L5
+             CRVL       0,6
+             CRVL       0,7
+             CMMA
+             DSVF       L6
+             CRVL       0,0
+             CRCT       200  
+             SOMA
+             ARMZ       0,0
+             DSVS       L7
+     L6:     NADA
+             CRVL       0,1
+             CRCT       300  
+             SOMA
+             ARMZ       0,1
+     L7:     NADA
+     L5:     NADA
+     L4:     NADA
+     L3:     NADA
+     L2:     NADA
+PARA
+FIM
